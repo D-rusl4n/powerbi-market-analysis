@@ -16,3 +16,5 @@ Embora o tema seja varejo/energia, a lógica de tratamento de dados (ETL) e visu
 
 ## 🔄 Próximos Passos
 Estou migrando minhas habilidades de Engenharia para **Análise de Dados Esportiva (Futebol e E-sports)**. O próximo projeto focará em métricas de Scout.
+
+*Desenvolvido por Guilherme - https://www.linkedin.com/in/guilherme-lima-12654b16b/*
